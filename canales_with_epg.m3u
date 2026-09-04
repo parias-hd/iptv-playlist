@@ -1,0 +1,690 @@
+#EXTM3U
+# Matching XMLTV file: epg.xml
+# Upload both files to the same GitHub repository.
+# In the IPTV app, add the raw GitHub URL for epg.xml as the EPG source.
+#EXTINF:-1 tvg-id="mx.canal-33-tijuana.e82eab4" tvg-name="Canal 33 Tijuana" tvg-country="MX" group-title="Mexico | Local",Canal 33 Tijuana
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+#EXTINF:-1 tvg-id="mx.psn-canal-45-2-tijuana.f8abde7" tvg-name="PSN Canal 45.2 Tijuana" tvg-country="MX" group-title="Mexico | Local",PSN Canal 45.2 Tijuana
+https://srspsn2.live/live/livestream.m3u8
+#EXTINF:-1 tvg-id="mx.psn-tijuana.86d49a5" tvg-name="PSN Tijuana" tvg-country="MX" group-title="Mexico | Local",PSN Tijuana
+https://srspsn.live/live/livestream.m3u8
+#EXTINF:-1 tvg-id="mx.bandamax.cb30ecb" tvg-name="BANDAMAX" tvg-country="MX" group-title="Mexico | Music",BANDAMAX
+http://181.78.8.199:8000/play/a0g9/index.m3u8
+#EXTINF:-1 tvg-id="mx.azteca-7-mexico.6850117" tvg-name="Azteca 7 Mexico" tvg-country="MX" group-title="Mexico | General",Azteca 7 Mexico
+http://168.232.168.242:4000/play/a04s/index.m3u8
+#EXTINF:-1 tvg-id="mx.bitme.ba7da46" tvg-name="BITME" tvg-country="MX" group-title="Mexico | General",BITME
+http://181.78.8.199:8000/play/a0ga/index.m3u8
+#EXTINF:-1 tvg-id="mx.canal-5-mexico.ffba974" tvg-name="Canal 5 Mexico" tvg-country="MX" group-title="Mexico | General",Canal 5 Mexico
+http://168.232.168.242:4000/play/a04r/index.m3u8
+#EXTINF:-1 tvg-id="mx.canal-de-las-estrellas.1159024" tvg-name="CANAL DE LAS ESTRELLAS" tvg-country="MX" group-title="Mexico | General",CANAL DE LAS ESTRELLAS
+http://181.78.8.199:8000/play/a0as/index.m3u8
+#EXTINF:-1 tvg-id="mx.distrito-comedia.82ed2df" tvg-name="Distrito Comedia" tvg-country="MX" group-title="Mexico | General",Distrito Comedia
+http://190.60.52.28:5001/play/a0ba/index.m3u8
+#EXTINF:-1 tvg-id="mx.las-estrellas-hd.bfc3464" tvg-name="Las Estrellas HD" tvg-country="MX" group-title="Mexico | General",Las Estrellas HD
+http://181.78.79.131:8000/play/a0qu
+#EXTINF:-1 tvg-id="us.cbs-8-san-diego-kfmb.6cba9e9" tvg-name="CBS 8+ San Diego (KFMB)" tvg-country="US" group-title="United States | Local",CBS 8+ San Diego (KFMB)
+https://livevideo.tegnadigital.com/kfmb/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFMB/elvs/live.m3u8
+#EXTINF:-1 tvg-id="us.nbc-7-san-diego-not-24-7.9984736" tvg-name="NBC 7 San Diego (not 24/7)" tvg-country="US" group-title="United States | Local",NBC 7 San Diego (not 24/7)
+https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+#EXTINF:-1 tvg-id="lat.atv.23faa45" tvg-name="ATV" tvg-country="LAT" group-title="Latin America | General",ATV
+http://181.78.79.131:8000/play/a0sp
+#EXTINF:-1 tvg-id="lat.multimedios-monterrey.0e19433" tvg-name="Multimedios Monterrey" tvg-country="LAT" group-title="Latin America | General",Multimedios Monterrey
+http://168.232.168.242:4000/play/a058/index.m3u8
+#EXTINF:-1 tvg-id="lat.telemundo-hd.0c2664f" tvg-name="Telemundo HD" tvg-country="LAT" group-title="Latin America | General",Telemundo HD
+http://168.232.168.242:4000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="lat.tl-novelas.f06dbda" tvg-name="TL Novelas" tvg-country="LAT" group-title="Latin America | General",TL Novelas
+http://168.232.168.242:4000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="lat.univision-hd.25d6145" tvg-name="Univision HD" tvg-country="LAT" group-title="Latin America | General",Univision HD
+http://168.232.168.242:4000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="lat.zona-latina.a8147ac" tvg-name="Zona Latina" tvg-country="LAT" group-title="Latin America | General",Zona Latina
+http://181.78.79.131:8000/play/a0su
+#EXTINF:-1 tvg-id="ar.televida-ar.1af9293" tvg-name="Televida AR" tvg-country="AR" group-title="Argentina | Sports",Televida AR
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ar.cine-ar.1080401" tvg-name="Cine.Ar" tvg-country="AR" group-title="Argentina | Movies & Series",Cine.Ar
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="ar.zonda-tv.935143d" tvg-name="Zonda TV" tvg-country="AR" group-title="Argentina | Movies & Series",Zonda TV
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+#EXTINF:-1 tvg-id="ar.america-tv-argentina.60dfaf5" tvg-name="AMERICA TV Argentina" tvg-country="AR" group-title="Argentina | General",AMERICA TV Argentina
+http://168.232.168.242:4000/play/a04b/index.m3u8
+#EXTINF:-1 tvg-id="ar.telefe.f58ba7f" tvg-name="Telefé" tvg-country="AR" group-title="Argentina | General",Telefé
+http://181.78.79.131:8000/play/a0pg
+#EXTINF:-1 tvg-id="cl.canal-24-horas.268ea79" tvg-name="Canal 24 Horas" tvg-country="CL" group-title="Chile | News",Canal 24 Horas
+http://181.78.79.131:8000/play/a0qr
+#EXTINF:-1 tvg-id="cl.cnn-chile.b8241a8" tvg-name="CNN Chile" tvg-country="CL" group-title="Chile | News",CNN Chile
+http://181.78.79.131:8000/play/a0qp
+#EXTINF:-1 tvg-id="cl.canal-13.6a16be2" tvg-name="Canal 13" tvg-country="CL" group-title="Chile | General",Canal 13
+http://181.78.79.131:8000/play/a0n4
+#EXTINF:-1 tvg-id="cl.canal-13.42f315d" tvg-name="Canal 13" tvg-country="CL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Canal_13_logo_2018.svg" group-title="Chile | General",Canal 13
+https://rudo.video/live/c13
+#EXTINF:-1 tvg-id="cl.canal-13-nacional-sin-trans.bf91d2f" tvg-name="CANAL 13 NACIONAL SIN TRANS" tvg-country="CL" group-title="Chile | General",CANAL 13 NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d4/index.m3u8
+#EXTINF:-1 tvg-id="cl.canal-13-trans.40b28ec" tvg-name="CANAL 13 TRANS" tvg-country="CL" group-title="Chile | General",CANAL 13 TRANS
+http://181.78.8.199:8000/play/a0dj/index.m3u8
+#EXTINF:-1 tvg-id="cl.canal-capital-nacional-sin-trans.7dd324f" tvg-name="CANAL CAPITAL NACIONAL SIN TRANS" tvg-country="CL" group-title="Chile | General",CANAL CAPITAL NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d3/index.m3u8
+#EXTINF:-1 tvg-id="cl.canal-capital-trans.0d1d45f" tvg-name="CANAL CAPITAL TRANS" tvg-country="CL" group-title="Chile | General",CANAL CAPITAL TRANS
+http://181.78.8.199:8000/play/a0dk/index.m3u8
+#EXTINF:-1 tvg-id="cl.capital.99c8645" tvg-name="Capital" tvg-country="CL" group-title="Chile | General",Capital
+http://181.78.79.131:8000/play/a0sj
+#EXTINF:-1 tvg-id="cl.chilevision.1aa0ad1" tvg-name="Chilevision" tvg-country="CL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Chilevisi%C3%B3n_2018.svg" group-title="Chile | General",Chilevision
+https://vmf.edge-online.chv.cl/chv/index.m3u8
+#EXTINF:-1 tvg-id="cl.chv.ab47379" tvg-name="CHV" tvg-country="CL" group-title="Chile | General",CHV
+http://181.78.79.131:8000/play/a0r0
+#EXTINF:-1 tvg-id="cl.etc.438a33e" tvg-name="ETC" tvg-country="CL" group-title="Chile | General",ETC
+http://181.78.79.131:8000/play/a0mn
+#EXTINF:-1 tvg-id="cl.la-red.6b452f1" tvg-name="La Red" tvg-country="CL" group-title="Chile | General",La Red
+http://181.78.79.131:8000/play/a0qq
+#EXTINF:-1 tvg-id="cl.mega.6f4cd22" tvg-name="Mega" tvg-country="CL" group-title="Chile | General",Mega
+http://181.78.79.131:8000/play/a0r1
+#EXTINF:-1 tvg-id="cl.mega.1907668" tvg-name="Mega" tvg-country="CL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Logo_Mega_2015.png" group-title="Chile | General",Mega
+https://rudo.video/live/mega
+#EXTINF:-1 tvg-id="cl.mega-hd.a109d8e" tvg-name="MEGA HD" tvg-country="CL" group-title="Chile | General",MEGA HD
+http://181.78.79.131:8000/play/a0qn
+#EXTINF:-1 tvg-id="cl.tv.e608d34" tvg-name="TV+" tvg-country="CL" group-title="Chile | General",TV+
+http://181.78.79.131:8000/play/a0qo
+#EXTINF:-1 tvg-id="cl.tvchile.fbee114" tvg-name="TVChile" tvg-country="CL" group-title="Chile | General",TVChile
+http://168.232.168.242:4000/play/a036/index.m3u8
+#EXTINF:-1 tvg-id="cl.tvn.9bcec10" tvg-name="TVN" tvg-country="CL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/TVN_logo_2020.svg" group-title="Chile | General",TVN
+https://rudo.video/live/tvn
+#EXTINF:-1 tvg-id="cl.viax.baec84e" tvg-name="ViaX" tvg-country="CL" group-title="Chile | General",ViaX
+http://181.78.79.131:8000/play/a0t4
+#EXTINF:-1 tvg-id="cl.zoom.c6577ad" tvg-name="Zoom" tvg-country="CL" group-title="Chile | General",Zoom
+http://181.78.79.131:8000/play/a0sg
+#EXTINF:-1 tvg-id="co.cable-noticias.d4ba201" tvg-name="CABLE NOTICIAS" tvg-country="CO" group-title="Colombia | News",CABLE NOTICIAS
+http://181.78.8.199:8000/play/a0g3/index.m3u8
+#EXTINF:-1 tvg-id="co.cable-noticias.3baca13" tvg-name="CABLE NOTICIAS" tvg-country="CO" group-title="Colombia | News",CABLE NOTICIAS
+http://181.78.8.199:8000/play/a0e8/index.m3u8
+#EXTINF:-1 tvg-id="co.canal-congreso-trans.a62732c" tvg-name="CANAL CONGRESO TRANS" tvg-country="CO" group-title="Colombia | Public Affairs",CANAL CONGRESO TRANS
+http://181.78.8.199:8000/play/a0di/index.m3u8
+#EXTINF:-1 tvg-id="co.canal-institucional.6897aea" tvg-name="CANAL INSTITUCIONAL" tvg-country="CO" group-title="Colombia | Public Affairs",CANAL INSTITUCIONAL
+http://181.78.79.131:8000/play/a0l8
+#EXTINF:-1 tvg-id="co.canal-1.38e0cba" tvg-name="CANAL 1" tvg-country="CO" group-title="Colombia | General",CANAL 1
+http://181.78.79.131:8000/play/a0s2
+#EXTINF:-1 tvg-id="co.canal-1-nacional-sin-trans.8444065" tvg-name="CANAL 1 NACIONAL SIN TRANS" tvg-country="CO" group-title="Colombia | General",CANAL 1 NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0cz/index.m3u8
+#EXTINF:-1 tvg-id="co.canal-1-trans.3f87ba7" tvg-name="CANAL 1 TRANS" tvg-country="CO" group-title="Colombia | General",CANAL 1 TRANS
+http://181.78.8.199:8000/play/a0da/index.m3u8
+#EXTINF:-1 tvg-id="co.canal-caracol.79352d2" tvg-name="Canal Caracol" tvg-country="CO" group-title="Colombia | General",Canal Caracol
+http://181.78.79.131:8000/play/a0sb
+#EXTINF:-1 tvg-id="co.canal-rcn.7d554be" tvg-name="Canal RCN" tvg-country="CO" group-title="Colombia | General",Canal RCN
+http://181.78.79.131:8000/play/a0sc
+#EXTINF:-1 tvg-id="co.canal-tro-trans.983edd5" tvg-name="CANAL TRO TRANS" tvg-country="CO" group-title="Colombia | General",CANAL TRO TRANS
+http://181.78.8.199:8000/play/a0dh/index.m3u8
+#EXTINF:-1 tvg-id="co.caracol.2859bdc" tvg-name="CARACOL" tvg-country="CO" group-title="Colombia | General",CARACOL
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+#EXTINF:-1 tvg-id="co.caracol-tv-hd.aa4d4cb" tvg-name="CARACOL TV HD" tvg-country="CO" group-title="Colombia | General",CARACOL TV HD
+http://181.78.79.131:8000/play/a0l0
+#EXTINF:-1 tvg-id="co.city-tv.73d5fee" tvg-name="City TV" tvg-country="CO" group-title="Colombia | General",City TV
+http://181.78.79.131:8000/play/a0si
+#EXTINF:-1 tvg-id="co.rcn-hd.024f39a" tvg-name="RCN HD" tvg-country="CO" group-title="Colombia | General",RCN HD
+http://181.78.79.131:8000/play/a0l4
+#EXTINF:-1 tvg-id="co.rcn-novelas.005ea75" tvg-name="RCN Novelas" tvg-country="CO" group-title="Colombia | General",RCN Novelas
+http://181.78.79.131:8000/play/a0sk
+#EXTINF:-1 tvg-id="co.rcn-novelas.4991779" tvg-name="RCN Novelas" tvg-country="CO" group-title="Colombia | General",RCN Novelas
+http://168.232.168.242:4000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="co.senal-colombia.581db4c" tvg-name="SEÑAL COLOMBIA" tvg-country="CO" group-title="Colombia | General",SEÑAL COLOMBIA
+http://181.78.79.131:8000/play/a0l7
+#EXTINF:-1 tvg-id="co.telecaribe.35626ea" tvg-name="TELECARIBE" tvg-country="CO" group-title="Colombia | General",TELECARIBE
+http://181.78.79.131:8000/play/a0lb
+#EXTINF:-1 tvg-id="co.televicentro.9722214" tvg-name="Televicentro" tvg-country="CO" group-title="Colombia | General",Televicentro
+http://181.78.79.131:8000/play/a0oy
+#EXTINF:-1 tvg-id="co.tro.b55a24f" tvg-name="TRO" tvg-country="CO" group-title="Colombia | General",TRO
+http://181.78.79.131:8000/play/a0sh
+#EXTINF:-1 tvg-id="ec.ecuavisa.127860c" tvg-name="Ecuavisa" tvg-country="EC" group-title="Ecuador | General",Ecuavisa
+http://181.78.79.131:8000/play/a0ov
+#EXTINF:-1 tvg-id="ec.ecuavisa.b905b3c" tvg-name="Ecuavisa" tvg-country="EC" group-title="Ecuador | General",Ecuavisa
+http://181.78.79.131:8000/play/a0sd
+#EXTINF:-1 tvg-id="ec.gamavision.72798fb" tvg-name="Gamavisión" tvg-country="EC" group-title="Ecuador | General",Gamavisión
+http://181.78.79.131:8000/play/a0ox
+#EXTINF:-1 tvg-id="ec.teleamazonas.6245ae8" tvg-name="Teleamazonas" tvg-country="EC" group-title="Ecuador | General",Teleamazonas
+http://181.78.79.131:8000/play/a0ow
+#EXTINF:-1 tvg-id="py.america-tv-py.74dc3cc" tvg-name="America TV PY" tvg-country="PY" group-title="Paraguay | General",America TV PY
+http://181.78.79.131:8000/play/a0ss
+#EXTINF:-1 tvg-id="py.telefuturo.f315336" tvg-name="Telefuturo" tvg-country="PY" group-title="Paraguay | General",Telefuturo
+http://181.78.79.131:8000/play/a0sv
+#EXTINF:-1 tvg-id="pe.panamericana-tv.c017e11" tvg-name="Panamericana TV" tvg-country="PE" group-title="Peru | General",Panamericana TV
+http://181.78.79.131:8000/play/a0so
+#EXTINF:-1 tvg-id="es.tve-24h.7aa059e" tvg-name="TVE 24h" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/24_horas_tve_logo.svg" group-title="Spain | News",TVE 24h
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
+#EXTINF:-1 tvg-id="es.rtve-somos-cine.70f09ac" tvg-name="RTVE Somos Cine" tvg-country="ES" group-title="Spain | Movies & Series",RTVE Somos Cine
+https://ztnr.rtve.es/ztnr/6909845.m3u8
+#EXTINF:-1 tvg-id="es.equipo-de-investigacion.ff21b95" tvg-name="Equipo de Investigacion" tvg-country="ES" group-title="Spain | Documentary & Lifestyle",Equipo de Investigacion
+https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
+#EXTINF:-1 tvg-id="es.kidz-atresplayer.97c3d98" tvg-name="Kidz (Atresplayer)" tvg-country="ES" group-title="Spain | Kids",Kidz (Atresplayer)
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
+#EXTINF:-1 tvg-id="es.canal-parlamento.80259b0" tvg-name="Canal Parlamento" tvg-country="ES" group-title="Spain | Public Affairs",Canal Parlamento
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:-1 tvg-id="es.324.b6ddd9e" tvg-name="324" tvg-country="ES" group-title="Spain | General",324
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="es.a-punt-valencia.89c408d" tvg-name="A Punt Valencia" tvg-country="ES" group-title="Spain | General",A Punt Valencia
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="es.aragon-tv.09336dc" tvg-name="Aragon TV" tvg-country="ES" group-title="Spain | General",Aragon TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+#EXTINF:-1 tvg-id="es.atresplayer-clasicos.56042a3" tvg-name="Atresplayer Clasicos" tvg-country="ES" group-title="Spain | General",Atresplayer Clasicos
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
+#EXTINF:-1 tvg-id="es.atresplayer-comedia.441f9bb" tvg-name="Atresplayer Comedia" tvg-country="ES" group-title="Spain | General",Atresplayer Comedia
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
+#EXTINF:-1 tvg-id="es.canal-sur-andalucia.5060bc0" tvg-name="Canal Sur Andalucia" tvg-country="ES" group-title="Spain | General",Canal Sur Andalucia
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="es.el-club-de-la-comedia.8f9e086" tvg-name="El Club de la Comedia" tvg-country="ES" group-title="Spain | General",El Club de la Comedia
+https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
+#EXTINF:-1 tvg-id="es.el-confidencial.7c8de97" tvg-name="El Confidencial" tvg-country="ES" group-title="Spain | General",El Confidencial
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:-1 tvg-id="es.el-hormiguero.4ae7f0c" tvg-name="El Hormiguero" tvg-country="ES" group-title="Spain | General",El Hormiguero
+https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
+#EXTINF:-1 tvg-id="es.el-pais-tv.52b5639" tvg-name="El Pais TV" tvg-country="ES" group-title="Spain | General",El Pais TV
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:-1 tvg-id="es.el-toro-tv.9e81ca1" tvg-name="El Toro TV" tvg-country="ES" group-title="Spain | General",El Toro TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-id="es.etb-1.555ec45" tvg-name="ETB 1" tvg-country="ES" group-title="Spain | General",ETB 1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:-1 tvg-id="es.etb-2.fdf18c7" tvg-name="ETB 2" tvg-country="ES" group-title="Spain | General",ETB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:-1 tvg-id="es.fisica-o-quimica.dba302c" tvg-name="Fisica o Quimica" tvg-country="ES" group-title="Spain | General",Fisica o Quimica
+https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
+#EXTINF:-1 tvg-id="es.flooxer.e9afc51" tvg-name="Flooxer" tvg-country="ES" group-title="Spain | General",Flooxer
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+#EXTINF:-1 tvg-id="es.hola-play.1732fa2" tvg-name="HOLA! Play" tvg-country="ES" group-title="Spain | General",HOLA! Play
+https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
+#EXTINF:-1 tvg-id="es.la-otra.2f8c66b" tvg-name="La Otra" tvg-country="ES" group-title="Spain | General",La Otra
+https://laotra-1-23.secure2.footprint.net/master.m3u8
+#EXTINF:-1 tvg-id="es.negocios-tv.6928112" tvg-name="Negocios TV" tvg-country="ES" group-title="Spain | General",Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-id="es.paravision.b3a2eb4" tvg-name="PARAVISION" tvg-country="ES" group-title="Spain | General",PARAVISION
+http://181.78.79.131:8000/play/a0sf
+#EXTINF:-1 tvg-id="es.rtve-crimen.9639b23" tvg-name="RTVE Crimen" tvg-country="ES" group-title="Spain | General",RTVE Crimen
+https://ztnr.rtve.es/ztnr/6924117.m3u8
+#EXTINF:-1 tvg-id="es.rtve-cuentame.97f563d" tvg-name="RTVE Cuentame" tvg-country="ES" group-title="Spain | General",RTVE Cuentame
+https://ztnr.rtve.es/ztnr/6909843.m3u8
+#EXTINF:-1 tvg-id="es.rtve-docs.8bf2129" tvg-name="RTVE Docs" tvg-country="ES" group-title="Spain | General",RTVE Docs
+https://ztnr.rtve.es/ztnr/6987938.m3u8
+#EXTINF:-1 tvg-id="es.rtve-epoca.043a2a4" tvg-name="RTVE Epoca" tvg-country="ES" group-title="Spain | General",RTVE Epoca
+https://ztnr.rtve.es/ztnr/6922467.m3u8
+#EXTINF:-1 tvg-id="es.telemadrid.5e22179" tvg-name="Telemadrid" tvg-country="ES" group-title="Spain | General",Telemadrid
+https://telemadrid-23.secure2.footprint.net/master.m3u8
+#EXTINF:-1 tvg-id="es.trece.2b47d73" tvg-name="Trece" tvg-country="ES" group-title="Spain | General",Trece
+http://181.78.79.131:8000/play/a0sq
+#EXTINF:-1 tvg-id="es.trece.f29cfef" tvg-name="TRECE" tvg-country="ES" group-title="Spain | General",TRECE
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="es.tv3.fa81e93" tvg-name="TV3" tvg-country="ES" group-title="Spain | General",TV3
+https://directes-tv-int.ccma.cat/live-origin/tv3-hls/master.m3u8
+#EXTINF:-1 tvg-id="es.tve.8e22c03" tvg-name="TVE" tvg-country="ES" group-title="Spain | General",TVE
+http://181.78.79.131:8000/play/a0pl
+#EXTINF:-1 tvg-id="es.tve-internacional-europa.25514f5" tvg-name="TVE Internacional Europa" tvg-country="ES" group-title="Spain | General",TVE Internacional Europa
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
+#EXTINF:-1 tvg-id="es.tve-la-1.e6bfa59" tvg-name="TVE La 1" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_de_la_Televisi%C3%B3n_P%C3%BAblica.svg" group-title="Spain | General",TVE La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1 tvg-id="es.tve-la-2.6b274af" tvg-name="TVE La 2" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/TVE_2_2008.svg" group-title="Spain | General",TVE La 2
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main.m3u8
+#EXTINF:-1 tvg-id="es.tvg-2.2c88c75" tvg-name="TVG 2" tvg-country="ES" group-title="Spain | General",TVG 2
+https://amodino-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="es.tvg-galicia.cf7387f" tvg-name="TVG Galicia" tvg-country="ES" group-title="Spain | General",TVG Galicia
+https://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="pt.rtp-1-portugal.0b684a9" tvg-name="RTP 1 Portugal" tvg-country="PT" group-title="Portugal | General",RTP 1 Portugal
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="pt.rtp-2-portugal.c4c6293" tvg-name="RTP 2 Portugal" tvg-country="PT" group-title="Portugal | General",RTP 2 Portugal
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="pt.rtp-internacional.1857656" tvg-name="RTP Internacional" tvg-country="PT" group-title="Portugal | General",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpint.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="fr.bfm-tv.b55a4e3" tvg-name="BFM TV" tvg-country="FR" group-title="France | News",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="fr.france-24.68c5174" tvg-name="France 24" tvg-country="FR" group-title="France | News",France 24
+http://181.78.79.131:8000/play/a0sm
+#EXTINF:-1 tvg-id="fr.france-24-english.d5d2e40" tvg-name="France 24 English" tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/France_24_logo.svg" group-title="France | News",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="fr.france-24-espanol.f4090cd" tvg-name="France 24 Español" tvg-country="FR" group-title="France | News",France 24 Español
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="fr.france-24-frances.d17137b" tvg-name="France 24 Frances" tvg-country="FR" group-title="France | News",France 24 Frances
+https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="fr.tv5monde-europe.70c8922" tvg-name="TV5Monde Europe" tvg-country="FR" group-title="France | General",TV5Monde Europe
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 tvg-id="de.tagesschau24-alemania.c5465d8" tvg-name="Tagesschau24 (Alemania)" tvg-country="DE" group-title="Germany | News",Tagesschau24 (Alemania)
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="de.das-erste-ard.11d91fa" tvg-name="Das Erste (ARD)" tvg-country="DE" group-title="Germany | General",Das Erste (ARD)
+https://mcdn.daserste.de/daserste/int/master.m3u8
+#EXTINF:-1 tvg-id="it.la7-italia.98a25ca" tvg-name="La7 Italia" tvg-country="IT" group-title="Italy | General",La7 Italia
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 tvg-id="it.rai-italia.ef32f5a" tvg-name="RAI Italia" tvg-country="IT" group-title="Italy | General",RAI Italia
+http://181.78.79.131:8000/play/a0mp
+#EXTINF:-1 tvg-id="it.sport-italia.0ec0d06" tvg-name="Sport Italia" tvg-country="IT" group-title="Italy | General",Sport Italia
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+#EXTINF:-1 tvg-id="gb.sky-news.18e755b" tvg-name="Sky News" tvg-country="GB" group-title="United Kingdom | News",Sky News
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd.m3u8
+#EXTINF:-1 tvg-id="eu.bloomberg-europe.30dea8f" tvg-name="Bloomberg Europe" tvg-country="EU" group-title="Europe | News",Bloomberg Europe
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="eu.cnn-internacional.615199b" tvg-name="CNN Internacional" tvg-country="EU" group-title="Europe | News",CNN Internacional
+https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
+#EXTINF:-1 tvg-id="eu.dw-espanol.c0d5646" tvg-name="DW Español" tvg-country="EU" group-title="Europe | News",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="eu.euronews-espanol.46bf105" tvg-name="Euronews Español" tvg-country="EU" group-title="Europe | News",Euronews Español
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+#EXTINF:-1 tvg-id="eu.eitb-basque.98fe825" tvg-name="EITB Basque" tvg-country="EU" group-title="Europe | General",EITB Basque
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+#EXTINF:-1 tvg-id="ve.antv.c48e080" tvg-name="ANTV" tvg-country="VE" group-title="Venezuela | General",ANTV
+http://181.78.8.199:8000/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-id="int.al-jazeera-english.5ee3a5b" tvg-name="Al Jazeera English" tvg-country="INT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Al_Jazeera_English_logo.svg" group-title="International | News",Al Jazeera English
+https://live-hls-web-aje.akamaized.net/m3u8/out/v1/f247f6eb2bda49dbbb03910b80459892/index.m3u8
+#EXTINF:-1 tvg-id="int.bbc-mundo.5761e39" tvg-name="BBC Mundo" tvg-country="INT" group-title="International | News",BBC Mundo
+http://168.232.168.242:4000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="int.bbc-news.55153ee" tvg-name="BBC News" tvg-country="INT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/BBC_News_2022.svg" group-title="International | News",BBC News
+https://news.files.bbci.co.uk/include/articles/public/tv-news-app/hls/bbc_world_news.m3u8
+#EXTINF:-1 tvg-id="int.cnn-en-espanol.728f7e7" tvg-name="CNN en Espanol" tvg-country="INT" group-title="International | News",CNN en Espanol
+http://168.232.168.242:4000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="int.cnn-espanol.60f5e07" tvg-name="CNN Español" tvg-country="INT" group-title="International | News",CNN Español
+http://181.78.79.131:8000/play/a0p3
+#EXTINF:-1 tvg-id="int.cnn-internacional.1aef1b7" tvg-name="CNN Internacional" tvg-country="INT" group-title="International | News",CNN Internacional
+http://168.232.168.242:4000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="int.rt-noticias.35409f9" tvg-name="RT Noticias" tvg-country="INT" group-title="International | News",RT Noticias
+http://168.232.168.242:4000/play/a05b/index.m3u8
+#EXTINF:-1 tvg-id="int.claro-sports-2-hd.ed947ff" tvg-name="Claro Sports 2 HD" tvg-country="INT" group-title="International | Sports",Claro Sports 2 HD
+http://168.232.168.242:4000/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="int.deportes-latinoamerica.db252f8" tvg-name="Deportes Latinoamerica" tvg-country="INT" group-title="International | Sports",Deportes Latinoamerica
+http://168.232.168.242:4000/play/a03w/index.m3u8
+#EXTINF:-1 tvg-id="int.espn.92c0cc7" tvg-name="ESPN" tvg-country="INT" group-title="International | Sports",ESPN
+http://181.78.79.131:8000/play/a0s7
+#EXTINF:-1 tvg-id="int.espn-n.8395a10" tvg-name="ESPN (N)" tvg-country="INT" group-title="International | Sports",ESPN (N)
+http://190.60.52.28:5001/play/a0d7/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-2-n1.1e755b6" tvg-name="ESPN 2 (N1)" tvg-country="INT" group-title="International | Sports",ESPN 2 (N1)
+http://190.60.52.28:5001/play/a0f5/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-2-n2.e1eb2b9" tvg-name="ESPN 2 (N2)" tvg-country="INT" group-title="International | Sports",ESPN 2 (N2)
+http://190.60.52.28:5001/play/a0d6/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-2-n3.3ba7ee5" tvg-name="ESPN 2 (N3)" tvg-country="INT" group-title="International | Sports",ESPN 2 (N3)
+http://190.60.52.28:5001/play/a0c6/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-2-hd.061077b" tvg-name="ESPN 2 HD" tvg-country="INT" group-title="International | Sports",ESPN 2 HD
+http://181.78.79.131:8000/play/a0qj
+#EXTINF:-1 tvg-id="int.espn-2-hd.7f17293" tvg-name="ESPN 2 HD" tvg-country="INT" group-title="International | Sports",ESPN 2 HD
+http://168.232.168.242:4000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-2-hd-n2.2c78a7a" tvg-name="ESPN 2 HD (N2)" tvg-country="INT" group-title="International | Sports",ESPN 2 HD (N2)
+http://190.60.52.28:5001/play/a09t/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-3-n.08693f9" tvg-name="ESPN 3 (N)" tvg-country="INT" group-title="International | Sports",ESPN 3 (N)
+http://190.60.52.28:5001/play/a0cl/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-3-hd.ac292b9" tvg-name="ESPN 3 HD" tvg-country="INT" group-title="International | Sports",ESPN 3 HD
+http://181.78.79.131:8000/play/a0s6
+#EXTINF:-1 tvg-id="int.espn-3-hd.ca75a3a" tvg-name="ESPN 3 HD" tvg-country="INT" group-title="International | Sports",ESPN 3 HD
+http://168.232.168.242:4000/play/a05g/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-3-hd-n2.3eeda71" tvg-name="ESPN 3 HD (N2)" tvg-country="INT" group-title="International | Sports",ESPN 3 HD (N2)
+http://190.60.52.28:5001/play/a094/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-4-hd.b7a84ad" tvg-name="ESPN 4 HD" tvg-country="INT" group-title="International | Sports",ESPN 4 HD
+http://181.78.79.131:8000/play/a0s9
+#EXTINF:-1 tvg-id="int.espn-4-hd.24b4bf5" tvg-name="ESPN 4 HD" tvg-country="INT" group-title="International | Sports",ESPN 4 HD
+http://168.232.168.242:4000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-4hd-n.b1b6271" tvg-name="ESPN 4HD (N)" tvg-country="INT" group-title="International | Sports",ESPN 4HD (N)
+http://190.60.52.28:5001/play/a0as/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-5-n.42a5c7f" tvg-name="ESPN 5 (N)" tvg-country="INT" group-title="International | Sports",ESPN 5 (N)
+http://190.60.52.28:5001/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-5-hd.e8d9c35" tvg-name="ESPN 5 HD" tvg-country="INT" group-title="International | Sports",ESPN 5 HD
+http://181.78.79.131:8000/play/a0s5
+#EXTINF:-1 tvg-id="int.espn-5-hd.59a26cd" tvg-name="ESPN 5 HD" tvg-country="INT" group-title="International | Sports",ESPN 5 HD
+http://168.232.168.242:4000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-5hd-n2.335e42d" tvg-name="ESPN 5HD (N2)" tvg-country="INT" group-title="International | Sports",ESPN 5HD (N2)
+http://190.60.52.28:5001/play/a09q/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-6-n.b72f891" tvg-name="ESPN 6 (N)" tvg-country="INT" group-title="International | Sports",ESPN 6 (N)
+http://190.60.52.28:5001/play/a0de/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-6-hd.c3b9b0a" tvg-name="ESPN 6 HD" tvg-country="INT" group-title="International | Sports",ESPN 6 HD
+http://181.78.79.131:8000/play/a0s3
+#EXTINF:-1 tvg-id="int.espn-6-hd.18e610d" tvg-name="ESPN 6 HD" tvg-country="INT" group-title="International | Sports",ESPN 6 HD
+http://168.232.168.242:4000/play/a05h/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-6hd-n2.db51df1" tvg-name="ESPN 6HD (N2)" tvg-country="INT" group-title="International | Sports",ESPN 6HD (N2)
+http://190.60.52.28:5001/play/a095/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-7-n.bb25fc3" tvg-name="ESPN 7 (N)" tvg-country="INT" group-title="International | Sports",ESPN 7 (N)
+http://190.60.52.28:5001/play/a0dd/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-7-hd.277a960" tvg-name="ESPN 7 HD" tvg-country="INT" group-title="International | Sports",ESPN 7 HD
+http://181.78.79.131:8000/play/a0s8
+#EXTINF:-1 tvg-id="int.espn-7hd-n2.f48154b" tvg-name="ESPN 7HD (N2)" tvg-country="INT" group-title="International | Sports",ESPN 7HD (N2)
+http://190.60.52.28:5001/play/a0ak/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-hd.a139c14" tvg-name="ESPN HD" tvg-country="INT" group-title="International | Sports",ESPN HD
+http://168.232.168.242:4000/play/a05e/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-hd-n.cf34ef8" tvg-name="ESPN HD (N)" tvg-country="INT" group-title="International | Sports",ESPN HD (N)
+http://190.60.52.28:5001/play/a0ar/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-premium.3604abb" tvg-name="Espn Premium" tvg-country="INT" group-title="International | Sports",Espn Premium
+http://181.78.79.131:8000/play/a0r2
+#EXTINF:-1 tvg-id="int.espn-premium-hd-n.2d30839" tvg-name="ESPN Premium HD (N)" tvg-country="INT" group-title="International | Sports",ESPN Premium HD (N)
+http://190.60.52.28:5001/play/a0fz/index.m3u8
+#EXTINF:-1 tvg-id="int.espn-premium-hd-n1.ce66831" tvg-name="ESPN Premium HD (N1)" tvg-country="INT" group-title="International | Sports",ESPN Premium HD (N1)
+http://190.60.52.28:5001/play/a09d/index.m3u8
+#EXTINF:-1 tvg-id="int.fox-sports-3-hd.8dcc935" tvg-name="FOX Sports 3 HD" tvg-country="INT" group-title="International | Sports",FOX Sports 3 HD
+http://168.232.168.242:4000/play/a01v/index.m3u8
+#EXTINF:-1 tvg-id="int.gol-tv.db47d09" tvg-name="GOL TV" tvg-country="INT" group-title="International | Sports",GOL TV
+http://181.78.79.131:8000/play/a0t0
+#EXTINF:-1 tvg-id="int.golf-channel-hd.1e64f98" tvg-name="Golf Channel HD" tvg-country="INT" group-title="International | Sports",Golf Channel HD
+http://168.232.168.242:4000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-id="int.l1-max.82eba90" tvg-name="L1 MAX" tvg-country="INT" group-title="International | Sports",L1 MAX
+http://181.78.79.131:8000/play/a0ql
+#EXTINF:-1 tvg-id="int.sky-sport.cf1ca18" tvg-name="SKY Sport" tvg-country="INT" group-title="International | Sports",SKY Sport
+http://168.232.168.242:4000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-id="int.sun-channel-hd.c60c03c" tvg-name="Sun Channel HD" tvg-country="INT" group-title="International | Sports",Sun Channel HD
+http://181.78.79.131:8000/play/a0qz
+#EXTINF:-1 tvg-id="int.tigo-sports-hd.0d430ac" tvg-name="Tigo Sports HD" tvg-country="INT" group-title="International | Sports",Tigo Sports HD
+http://168.232.168.242:4000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-id="int.tnt-sports.925c147" tvg-name="TNT SPORTS" tvg-country="INT" group-title="International | Sports",TNT SPORTS
+http://181.78.79.131:8000/play/a0mo
+#EXTINF:-1 tvg-id="int.tnt-sports-premium-sd.463a84c" tvg-name="TNT Sports Premium SD" tvg-country="INT" group-title="International | Sports",TNT Sports Premium SD
+http://181.78.79.131:8000/play/a0q9
+#EXTINF:-1 tvg-id="int.tubi-sports.f6f6e13" tvg-name="Tubi Sports" tvg-country="INT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Tubi_logo_%282024%29.svg" group-title="International | Sports",Tubi Sports
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
+#EXTINF:-1 tvg-id="int.tyc.b3ce7ba" tvg-name="TyC" tvg-country="INT" group-title="International | Sports",TyC
+http://181.78.79.131:8000/play/a0t1
+#EXTINF:-1 tvg-id="int.win-sports-hd.ac75b96" tvg-name="Win Sports+ HD" tvg-country="INT" group-title="International | Sports",Win Sports+ HD
+http://181.78.79.131:8000/play/a0n1
+#EXTINF:-1 tvg-id="int.amc-hd.7a50e00" tvg-name="AMC HD" tvg-country="INT" group-title="International | Movies & Series",AMC HD
+http://181.78.79.131:8000/play/a0n2
+#EXTINF:-1 tvg-id="int.amc-hd.aa8b06d" tvg-name="AMC HD" tvg-country="INT" group-title="International | Movies & Series",AMC HD
+http://168.232.168.242:4000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="int.atres-series.a09d3df" tvg-name="Atres Series" tvg-country="INT" group-title="International | Movies & Series",Atres Series
+http://181.78.79.131:8000/play/a0n0
+#EXTINF:-1 tvg-id="int.axn.b6cd798" tvg-name="AXN" tvg-country="INT" group-title="International | Movies & Series",AXN
+http://181.78.8.199:8000/play/a0am/index.m3u8
+#EXTINF:-1 tvg-id="int.axn.d610e04" tvg-name="AXN" tvg-country="INT" group-title="International | Movies & Series",AXN
+http://181.78.8.199:8000/play/a0cu/index.m3u8
+#EXTINF:-1 tvg-id="int.axn-hd.33c6ccc" tvg-name="AXN HD" tvg-country="INT" group-title="International | Movies & Series",AXN HD
+http://181.78.79.131:8000/play/a0q0
+#EXTINF:-1 tvg-id="int.axn-hd.c610ca8" tvg-name="AXN HD" tvg-country="INT" group-title="International | Movies & Series",AXN HD
+http://168.232.168.242:4000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="int.cine-arte-hd.e844aec" tvg-name="Cine Arte HD" tvg-country="INT" group-title="International | Movies & Series",Cine Arte HD
+http://168.232.168.242:4000/play/a057/index.m3u8
+#EXTINF:-1 tvg-id="int.cine-latino.5e40007" tvg-name="Cine Latino" tvg-country="INT" group-title="International | Movies & Series",Cine Latino
+http://168.232.168.242:4000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="int.cinecanal.f385bc0" tvg-name="Cinecanal" tvg-country="INT" group-title="International | Movies & Series",Cinecanal
+http://181.78.79.131:8000/play/a0pp
+#EXTINF:-1 tvg-id="int.cinecanal-hd.e5b7b11" tvg-name="Cinecanal HD" tvg-country="INT" group-title="International | Movies & Series",Cinecanal HD
+http://168.232.168.242:4000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="int.cinemax.5fc3e3f" tvg-name="Cinemax" tvg-country="INT" group-title="International | Movies & Series",Cinemax
+http://168.232.168.242:4000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="int.de-pelicula.377b10f" tvg-name="De Pelicula" tvg-country="INT" group-title="International | Movies & Series",De Pelicula
+http://181.78.79.131:8000/play/a0qb
+#EXTINF:-1 tvg-id="int.fox-classic-hd.069c885" tvg-name="Fox Classic HD" tvg-country="INT" group-title="International | Movies & Series",Fox Classic HD
+http://168.232.168.242:4000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="int.fox-movies-hd.576a912" tvg-name="FOX Movies HD" tvg-country="INT" group-title="International | Movies & Series",FOX Movies HD
+http://168.232.168.242:4000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-id="int.fx-hd.1bd2e2d" tvg-name="FX HD" tvg-country="INT" group-title="International | Movies & Series",FX HD
+http://181.78.79.131:8000/play/a0q5
+#EXTINF:-1 tvg-id="int.fx-peliculas-hd.16448d8" tvg-name="FX Peliculas HD" tvg-country="INT" group-title="International | Movies & Series",FX Peliculas HD
+http://168.232.168.242:4000/play/a01x/index.m3u8
+#EXTINF:-1 tvg-id="int.golden.0e2cc28" tvg-name="Golden" tvg-country="INT" group-title="International | Movies & Series",Golden
+http://168.232.168.242:4000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="int.golden-premiere-hd.fdc806f" tvg-name="Golden Premiere HD" tvg-country="INT" group-title="International | Movies & Series",Golden Premiere HD
+http://168.232.168.242:4000/play/a051/index.m3u8
+#EXTINF:-1 tvg-id="int.hbo.5ee3dbc" tvg-name="HBO" tvg-country="INT" group-title="International | Movies & Series",HBO
+http://181.78.79.131:8000/play/a0qd
+#EXTINF:-1 tvg-id="int.hbo-2-hd.67d9d09" tvg-name="HBO 2 HD" tvg-country="INT" group-title="International | Movies & Series",HBO 2 HD
+http://168.232.168.242:4000/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="int.hbo-family-hd.38fd0fa" tvg-name="HBO Family HD" tvg-country="INT" group-title="International | Movies & Series",HBO Family HD
+http://168.232.168.242:4000/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="int.hbo-hd.4b6a64c" tvg-name="HBO HD" tvg-country="INT" group-title="International | Movies & Series",HBO HD
+http://168.232.168.242:4000/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="int.hbo-plus-hd.fab5e93" tvg-name="HBO Plus HD" tvg-country="INT" group-title="International | Movies & Series",HBO Plus HD
+http://168.232.168.242:4000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="int.hbo-xtreme.517e0cb" tvg-name="HBO Xtreme" tvg-country="INT" group-title="International | Movies & Series",HBO Xtreme
+http://168.232.168.242:4000/play/a024/index.m3u8
+#EXTINF:-1 tvg-id="int.hbo-xtreme-hd.ccdf7ad" tvg-name="HBO Xtreme HD" tvg-country="INT" group-title="International | Movies & Series",HBO Xtreme HD
+http://181.78.79.131:8000/play/a0qy
+#EXTINF:-1 tvg-id="int.multicinema.ba92c80" tvg-name="Multicinema" tvg-country="INT" group-title="International | Movies & Series",Multicinema
+http://168.232.168.242:4000/play/a040/index.m3u8
+#EXTINF:-1 tvg-id="int.multipremier.0881cd0" tvg-name="Multipremier" tvg-country="INT" group-title="International | Movies & Series",Multipremier
+http://168.232.168.242:4000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="int.paramount-hd.b4390bd" tvg-name="Paramount HD" tvg-country="INT" group-title="International | Movies & Series",Paramount HD
+http://168.232.168.242:4000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-id="int.pasiones-hd.76a52be" tvg-name="Pasiones HD" tvg-country="INT" group-title="International | Movies & Series",Pasiones HD
+http://181.78.79.131:8000/play/a0qh
+#EXTINF:-1 tvg-id="int.serie-xtrema.0890bad" tvg-name="Serie Xtrema" tvg-country="INT" group-title="International | Movies & Series",Serie Xtrema
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+#EXTINF:-1 tvg-id="int.sony-hd.58b73ba" tvg-name="Sony HD" tvg-country="INT" group-title="International | Movies & Series",Sony HD
+http://181.78.79.131:8000/play/a0py
+#EXTINF:-1 tvg-id="int.sony-hd.00a7256" tvg-name="Sony HD" tvg-country="INT" group-title="International | Movies & Series",Sony HD
+http://168.232.168.242:4000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="int.sony-movies.6c71d14" tvg-name="Sony Movies" tvg-country="INT" group-title="International | Movies & Series",Sony Movies
+http://181.78.79.131:8000/play/a0p5
+#EXTINF:-1 tvg-id="int.space-hd.c099019" tvg-name="Space HD" tvg-country="INT" group-title="International | Movies & Series",Space HD
+http://181.78.79.131:8000/play/a0q2
+#EXTINF:-1 tvg-id="int.space-hd.3a552fe" tvg-name="Space HD" tvg-country="INT" group-title="International | Movies & Series",Space HD
+http://168.232.168.242:4000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="int.studio-universal-hd.d5a253e" tvg-name="Studio Universal HD" tvg-country="INT" group-title="International | Movies & Series",Studio Universal HD
+http://168.232.168.242:4000/play/a02w/index.m3u8
+#EXTINF:-1 tvg-id="int.tcm.affec04" tvg-name="TCM" tvg-country="INT" group-title="International | Movies & Series",TCM
+http://168.232.168.242:4000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="int.tlnovelas.517be44" tvg-name="Tlnovelas" tvg-country="INT" group-title="International | Movies & Series",Tlnovelas
+http://181.78.79.131:8000/play/a0t6
+#EXTINF:-1 tvg-id="int.tnt-hd.4d64d03" tvg-name="TNT HD" tvg-country="INT" group-title="International | Movies & Series",TNT HD
+http://168.232.168.242:4000/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="int.tnt-novelas-hd.1876da6" tvg-name="TNT Novelas HD" tvg-country="INT" group-title="International | Movies & Series",TNT Novelas HD
+http://181.78.79.131:8000/play/a0na
+#EXTINF:-1 tvg-id="int.tnt-series-hd.8ad258b" tvg-name="TNT Series HD" tvg-country="INT" group-title="International | Movies & Series",TNT Series HD
+http://168.232.168.242:4000/play/a034/index.m3u8
+#EXTINF:-1 tvg-id="int.universal.84603b6" tvg-name="Universal" tvg-country="INT" group-title="International | Movies & Series",Universal
+http://168.232.168.242:4000/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="int.universal-channel-hd.f3f0552" tvg-name="UNIVERSAL CHANNEL HD" tvg-country="INT" group-title="International | Movies & Series",UNIVERSAL CHANNEL HD
+http://181.78.79.131:8000/play/a0mw
+#EXTINF:-1 tvg-id="int.warner.6030713" tvg-name="Warner" tvg-country="INT" group-title="International | Movies & Series",Warner
+http://181.78.79.131:8000/play/a0sz
+#EXTINF:-1 tvg-id="int.warner-hd.6897329" tvg-name="Warner HD" tvg-country="INT" group-title="International | Movies & Series",Warner HD
+http://168.232.168.242:4000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-id="int.warner-tv-hd.5b7403a" tvg-name="Warner TV HD" tvg-country="INT" group-title="International | Movies & Series",Warner TV HD
+http://181.78.79.131:8000/play/a0pz
+#EXTINF:-1 tvg-id="int.xtrema-accion.387c8d9" tvg-name="Xtrema Accion" tvg-country="INT" group-title="International | Movies & Series",Xtrema Accion
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="int.xtrema-anime.28f0b81" tvg-name="Xtrema Anime" tvg-country="INT" group-title="International | Movies & Series",Xtrema Anime
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+#EXTINF:-1 tvg-id="int.xtrema-asia.13e1bd2" tvg-name="Xtrema Asia" tvg-country="INT" group-title="International | Movies & Series",Xtrema Asia
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+#EXTINF:-1 tvg-id="int.xtrema-comedia.1b3f8ae" tvg-name="Xtrema Comedia" tvg-country="INT" group-title="International | Movies & Series",Xtrema Comedia
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1 tvg-id="int.xtrema-drama.1069910" tvg-name="Xtrema Drama" tvg-country="INT" group-title="International | Movies & Series",Xtrema Drama
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:-1 tvg-id="int.xtrema-europa.703324a" tvg-name="Xtrema Europa" tvg-country="INT" group-title="International | Movies & Series",Xtrema Europa
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+#EXTINF:-1 tvg-id="int.xtrema-familia.a95ad89" tvg-name="Xtrema Familia" tvg-country="INT" group-title="International | Movies & Series",Xtrema Familia
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 tvg-id="int.xtrema-hindi.c2f3903" tvg-name="Xtrema Hindi" tvg-country="INT" group-title="International | Movies & Series",Xtrema Hindi
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:-1 tvg-id="int.xtrema-latina.b13613d" tvg-name="Xtrema Latina" tvg-country="INT" group-title="International | Movies & Series",Xtrema Latina
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+#EXTINF:-1 tvg-id="int.xtrema-retro-series.4949943" tvg-name="Xtrema Retro Series" tvg-country="INT" group-title="International | Movies & Series",Xtrema Retro Series
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:-1 tvg-id="int.xtrema-suspenso.008fa74" tvg-name="Xtrema Suspenso" tvg-country="INT" group-title="International | Movies & Series",Xtrema Suspenso
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:-1 tvg-id="int.xtrema-terror.837e2d7" tvg-name="Xtrema Terror" tvg-country="INT" group-title="International | Movies & Series",Xtrema Terror
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 tvg-id="int.a-e-hd.026b84e" tvg-name="A&E HD" tvg-country="INT" group-title="International | Entertainment",A&E HD
+http://181.78.79.131:8000/play/a0mt
+#EXTINF:-1 tvg-id="int.a-e-hd.f64ad05" tvg-name="A&E HD" tvg-country="INT" group-title="International | Entertainment",A&E HD
+http://168.232.168.242:4000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="int.ae.b3febd1" tvg-name="AE" tvg-country="INT" group-title="International | Entertainment",AE
+http://181.78.8.199:8000/play/a0al/index.m3u8
+#EXTINF:-1 tvg-id="int.ae.fb7992d" tvg-name="AE" tvg-country="INT" group-title="International | Entertainment",AE
+http://181.78.8.199:8000/play/a0ct/index.m3u8
+#EXTINF:-1 tvg-id="int.ae-mundo.127a3b6" tvg-name="AE Mundo" tvg-country="INT" group-title="International | Entertainment",AE Mundo
+http://181.78.79.131:8000/play/a0t2
+#EXTINF:-1 tvg-id="int.comedy-central-hd.9b749b2" tvg-name="Comedy Central HD" tvg-country="INT" group-title="International | Entertainment",Comedy Central HD
+http://181.78.79.131:8000/play/a0mu
+#EXTINF:-1 tvg-id="int.comedy-central-hd.58064ef" tvg-name="Comedy Central HD" tvg-country="INT" group-title="International | Entertainment",Comedy Central HD
+http://168.232.168.242:4000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="int.e-entretenimiento-hd.111c271" tvg-name="E! Entretenimiento HD" tvg-country="INT" group-title="International | Entertainment",E! Entretenimiento HD
+http://168.232.168.242:4000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-id="int.el-gourmet.8f60888" tvg-name="El Gourmet" tvg-country="INT" group-title="International | Entertainment",El Gourmet
+http://168.232.168.242:4000/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="int.fox-action-hd.cef8b44" tvg-name="FOX Action HD" tvg-country="INT" group-title="International | Entertainment",FOX Action HD
+http://168.232.168.242:4000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="int.fox-comedy-hd.de198fe" tvg-name="FOX Comedy HD" tvg-country="INT" group-title="International | Entertainment",FOX Comedy HD
+http://168.232.168.242:4000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="int.fox-hd.4b7a670" tvg-name="FOX HD" tvg-country="INT" group-title="International | Entertainment",FOX HD
+http://168.232.168.242:4000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="int.fox-life.6ac0133" tvg-name="FOX Life" tvg-country="INT" group-title="International | Entertainment",FOX Life
+http://168.232.168.242:4000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="int.fx-hd.5fd7c62" tvg-name="FX HD" tvg-country="INT" group-title="International | Entertainment",FX HD
+http://168.232.168.242:4000/play/a01w/index.m3u8
+#EXTINF:-1 tvg-id="int.htv.c3f2d10" tvg-name="HTV" tvg-country="INT" group-title="International | Entertainment",HTV
+http://168.232.168.242:4000/play/a03z/index.m3u8
+#EXTINF:-1 tvg-id="int.lifetime.254c332" tvg-name="Lifetime" tvg-country="INT" group-title="International | Entertainment",Lifetime
+http://181.78.79.131:8000/play/a0pi
+#EXTINF:-1 tvg-id="int.lifetime.6057cd6" tvg-name="Lifetime" tvg-country="INT" group-title="International | Entertainment",Lifetime
+http://168.232.168.242:4000/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="int.sundance-hd.ec837e5" tvg-name="Sundance HD" tvg-country="INT" group-title="International | Entertainment",Sundance HD
+http://168.232.168.242:4000/play/a04l/index.m3u8
+#EXTINF:-1 tvg-id="int.tlc.5c083d1" tvg-name="TLC" tvg-country="INT" group-title="International | Entertainment",TLC
+http://168.232.168.242:4000/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="int.animal-planet.d03bfd2" tvg-name="Animal Planet" tvg-country="INT" group-title="International | Documentary & Lifestyle",Animal Planet
+http://181.78.79.131:8000/play/a0po
+#EXTINF:-1 tvg-id="int.animal-planet.33a86d5" tvg-name="ANIMAL PLANET" tvg-country="INT" group-title="International | Documentary & Lifestyle",ANIMAL PLANET
+http://181.78.8.199:8000/play/a0by/index.m3u8
+#EXTINF:-1 tvg-id="int.animal-planet-hd.c467725" tvg-name="Animal Planet HD" tvg-country="INT" group-title="International | Documentary & Lifestyle",Animal Planet HD
+http://168.232.168.242:4000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="int.animal-planet-hd-amazonas.c5b3371" tvg-name="Animal Planet HD AMAZONAS" tvg-country="INT" group-title="International | Documentary & Lifestyle",Animal Planet HD AMAZONAS
+http://181.78.8.199:8000/play/a06w/index.m3u8
+#EXTINF:-1 tvg-id="int.discovery-channel-hd.c72e09e" tvg-name="Discovery Channel HD" tvg-country="INT" group-title="International | Documentary & Lifestyle",Discovery Channel HD
+http://168.232.168.242:4000/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="int.discovery-civilization.0ef5f86" tvg-name="Discovery Civilization" tvg-country="INT" group-title="International | Documentary & Lifestyle",Discovery Civilization
+http://168.232.168.242:4000/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="int.discovery-hogar-y-salud.dbb91be" tvg-name="Discovery Hogar y Salud" tvg-country="INT" group-title="International | Documentary & Lifestyle",Discovery Hogar y Salud
+http://168.232.168.242:4000/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="int.discovery-id-hd.ef89a6c" tvg-name="Discovery ID HD" tvg-country="INT" group-title="International | Documentary & Lifestyle",Discovery ID HD
+http://168.232.168.242:4000/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="int.discovery-science.a049ed0" tvg-name="Discovery Science" tvg-country="INT" group-title="International | Documentary & Lifestyle",Discovery Science
+http://181.78.79.131:8000/play/a0pb
+#EXTINF:-1 tvg-id="int.discovery-science.881ef0a" tvg-name="Discovery Science" tvg-country="INT" group-title="International | Documentary & Lifestyle",Discovery Science
+http://168.232.168.242:4000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="int.discovery-theater-hd.f214ab1" tvg-name="Discovery Theater HD" tvg-country="INT" group-title="International | Documentary & Lifestyle",Discovery Theater HD
+http://168.232.168.242:4000/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="int.discovery-turbo.d903adc" tvg-name="Discovery Turbo" tvg-country="INT" group-title="International | Documentary & Lifestyle",Discovery Turbo
+http://181.78.79.131:8000/play/a0p8
+#EXTINF:-1 tvg-id="int.discovery-turbo.5c4f443" tvg-name="Discovery Turbo" tvg-country="INT" group-title="International | Documentary & Lifestyle",Discovery Turbo
+http://168.232.168.242:4000/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="int.discovery-world-hd.79d54f2" tvg-name="Discovery World HD" tvg-country="INT" group-title="International | Documentary & Lifestyle",Discovery World HD
+http://181.78.79.131:8000/play/a0n8
+#EXTINF:-1 tvg-id="int.discovery-world-hd.aeba1d3" tvg-name="Discovery World HD" tvg-country="INT" group-title="International | Documentary & Lifestyle",Discovery World HD
+http://168.232.168.242:4000/play/a017/index.m3u8
+#EXTINF:-1 tvg-id="int.food-network.802ea43" tvg-name="Food Network" tvg-country="INT" group-title="International | Documentary & Lifestyle",Food Network
+http://181.78.79.131:8000/play/a0qt
+#EXTINF:-1 tvg-id="int.h2.636bf7a" tvg-name="H2" tvg-country="INT" group-title="International | Documentary & Lifestyle",H2
+http://168.232.168.242:4000/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="int.hgtv.f2a2937" tvg-name="HGTV" tvg-country="INT" group-title="International | Documentary & Lifestyle",HGTV
+http://181.78.79.131:8000/play/a0pf
+#EXTINF:-1 tvg-id="int.historia-hd.35a6182" tvg-name="Historia HD" tvg-country="INT" group-title="International | Documentary & Lifestyle",Historia HD
+http://168.232.168.242:4000/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="int.history-channel.ff45dcc" tvg-name="History Channel" tvg-country="INT" group-title="International | Documentary & Lifestyle",History Channel
+http://181.78.79.131:8000/play/a0st
+#EXTINF:-1 tvg-id="int.home-health-hd.e590a3a" tvg-name="Home & Health HD" tvg-country="INT" group-title="International | Documentary & Lifestyle",Home & Health HD
+http://181.78.79.131:8000/play/a0p2
+#EXTINF:-1 tvg-id="int.home-and-health.5cd7bd8" tvg-name="Home and Health" tvg-country="INT" group-title="International | Documentary & Lifestyle",Home and Health
+http://181.78.79.131:8000/play/a0sn
+#EXTINF:-1 tvg-id="int.nasa-tv.873bddf" tvg-name="NASA TV" tvg-country="INT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="International | Documentary & Lifestyle",NASA TV
+https://ntv1.akamaized.net/hls/live/2014049/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="int.nat-geo-hd.0c07436" tvg-name="Nat Geo HD" tvg-country="INT" group-title="International | Documentary & Lifestyle",Nat Geo HD
+http://181.78.79.131:8000/play/a0pt
+#EXTINF:-1 tvg-id="int.nat-geo-wild-hd.a713d9c" tvg-name="Nat Geo Wild HD" tvg-country="INT" group-title="International | Documentary & Lifestyle",Nat Geo Wild HD
+http://168.232.168.242:4000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="int.national-geographic-hd.a44adb3" tvg-name="National Geographic HD" tvg-country="INT" group-title="International | Documentary & Lifestyle",National Geographic HD
+http://168.232.168.242:4000/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="int.tlc.b6f01ce" tvg-name="TLC" tvg-country="INT" group-title="International | Documentary & Lifestyle",TLC
+http://181.78.79.131:8000/play/a0pa
+#EXTINF:-1 tvg-id="int.tlc.7b3a6e0" tvg-name="TLC" tvg-country="INT" group-title="International | Documentary & Lifestyle",TLC
+http://181.78.79.131:8000/play/a0t3
+#EXTINF:-1 tvg-id="int.baby-first.b3808f6" tvg-name="Baby First" tvg-country="INT" group-title="International | Kids",Baby First
+http://181.78.79.131:8000/play/a0sw
+#EXTINF:-1 tvg-id="int.baby-tv.8cd64b1" tvg-name="Baby TV" tvg-country="INT" group-title="International | Kids",Baby TV
+http://168.232.168.242:4000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="int.babytv-enviado.aaae5c4" tvg-name="BABYTV ENVIADO" tvg-country="INT" group-title="International | Kids",BABYTV ENVIADO
+http://181.78.8.199:8000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-id="int.boomerang.aaecd59" tvg-name="Boomerang" tvg-country="INT" group-title="International | Kids",Boomerang
+http://168.232.168.242:4000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="int.cartoon-network-hd.f247af6" tvg-name="Cartoon Network HD" tvg-country="INT" group-title="International | Kids",Cartoon Network HD
+http://181.78.79.131:8000/play/a0oz
+#EXTINF:-1 tvg-id="int.cartoon-network-latino.0f789d5" tvg-name="Cartoon Network Latino" tvg-country="INT" group-title="International | Kids",Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="int.dhe-hd.911d893" tvg-name="DHE HD" tvg-country="INT" group-title="International | Kids",DHE HD
+http://181.78.79.131:8000/play/a0qv
+#EXTINF:-1 tvg-id="int.discovery-kids-hd.b3fc165" tvg-name="Discovery Kids HD" tvg-country="INT" group-title="International | Kids",Discovery Kids HD
+http://181.78.79.131:8000/play/a0p0
+#EXTINF:-1 tvg-id="int.discovery-kids-hd.ca34ded" tvg-name="Discovery Kids HD" tvg-country="INT" group-title="International | Kids",Discovery Kids HD
+http://168.232.168.242:4000/play/a03m/index.m3u8
+#EXTINF:-1 tvg-id="int.disney-channel.fe06a60" tvg-name="Disney Channel" tvg-country="INT" group-title="International | Kids",Disney Channel
+http://190.60.52.28:5001/play/a0d1/index.m3u8
+#EXTINF:-1 tvg-id="int.disney-channel.b94ee95" tvg-name="Disney Channel" tvg-country="INT" group-title="International | Kids",Disney Channel
+http://168.232.168.242:4000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="int.disney-hd.784fd43" tvg-name="Disney HD" tvg-country="INT" group-title="International | Kids",Disney HD
+http://190.60.52.28:5001/play/a0aq/index.m3u8
+#EXTINF:-1 tvg-id="int.disney-jr.ba14fd0" tvg-name="Disney Jr" tvg-country="INT" group-title="International | Kids",Disney Jr
+http://190.60.52.28:5001/play/a0c3/index.m3u8
+#EXTINF:-1 tvg-id="int.disney-jr.3e2487e" tvg-name="Disney Jr" tvg-country="INT" group-title="International | Kids",Disney Jr
+http://168.232.168.242:4000/play/a019/index.m3u8
+#EXTINF:-1 tvg-id="int.disney-jr.5b1cb41" tvg-name="Disney Jr." tvg-country="INT" group-title="International | Kids",Disney Jr.
+http://181.78.79.131:8000/play/a0p7
+#EXTINF:-1 tvg-id="int.disney-xd.3f711e5" tvg-name="Disney XD" tvg-country="INT" group-title="International | Kids",Disney XD
+http://168.232.168.242:4000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-id="int.nat-geo-kids.aabb044" tvg-name="Nat Geo Kids" tvg-country="INT" group-title="International | Kids",Nat Geo Kids
+http://168.232.168.242:4000/play/a02h/index.m3u8
+#EXTINF:-1 tvg-id="int.nick-jr.83a5c39" tvg-name="Nick Jr" tvg-country="INT" group-title="International | Kids",Nick Jr
+http://168.232.168.242:4000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="int.nick-jr.4111e08" tvg-name="Nick Jr." tvg-country="INT" group-title="International | Kids",Nick Jr.
+http://181.78.79.131:8000/play/a0p9
+#EXTINF:-1 tvg-id="int.nickelodeon.1ec8ad8" tvg-name="Nickelodeon" tvg-country="INT" group-title="International | Kids",Nickelodeon
+http://168.232.168.242:4000/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="int.nickelodeon-hd.7da3953" tvg-name="Nickelodeon HD" tvg-country="INT" group-title="International | Kids",Nickelodeon HD
+http://181.78.79.131:8000/play/a0qm
+#EXTINF:-1 tvg-id="int.pequeradio-tv.17ec42d" tvg-name="Pequeradio TV" tvg-country="INT" group-title="International | Kids",Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-id="int.semillitas.4f61de7" tvg-name="Semillitas" tvg-country="INT" group-title="International | Kids",Semillitas
+http://168.232.168.242:4000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="int.tooncast.113041e" tvg-name="Tooncast" tvg-country="INT" group-title="International | Kids",Tooncast
+http://181.78.79.131:8000/play/a0pe
+#EXTINF:-1 tvg-id="int.xtrema-retro-infantil.9dc188b" tvg-name="Xtrema Retro Infantil" tvg-country="INT" group-title="International | Kids",Xtrema Retro Infantil
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="int.zoomoo.29d8d2c" tvg-name="ZooMoo" tvg-country="INT" group-title="International | Kids",ZooMoo
+http://168.232.168.242:4000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-id="int.canal-de-conciertos.8ab06c8" tvg-name="Canal de Conciertos" tvg-country="INT" group-title="International | Music",Canal de Conciertos
+http://168.232.168.242:4000/play/a04y/index.m3u8
+#EXTINF:-1 tvg-id="int.exa-tv.b59f87b" tvg-name="Exa TV" tvg-country="INT" group-title="International | Music",Exa TV
+http://168.232.168.242:4000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="int.la-kalle.9d5e6a3" tvg-name="LA KALLE" tvg-country="INT" group-title="International | Music",LA KALLE
+http://181.78.79.131:8000/play/a0l3
+#EXTINF:-1 tvg-id="int.mtv-hd.003e92f" tvg-name="MTV HD" tvg-country="INT" group-title="International | Music",MTV HD
+http://181.78.79.131:8000/play/a0nc
+#EXTINF:-1 tvg-id="int.mtv-hd.b13412f" tvg-name="MTV HD" tvg-country="INT" group-title="International | Music",MTV HD
+http://168.232.168.242:4000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="int.mtv-hits.9dce7b8" tvg-name="MTV Hits" tvg-country="INT" group-title="International | Music",MTV Hits
+http://168.232.168.242:4000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="int.vh1-classic.0687446" tvg-name="VH1 Classic" tvg-country="INT" group-title="International | Music",VH1 Classic
+http://168.232.168.242:4000/play/a048/index.m3u8
+#EXTINF:-1 tvg-id="int.vh1-hd.a590730" tvg-name="VH1 HD" tvg-country="INT" group-title="International | Music",VH1 HD
+http://168.232.168.242:4000/play/a043/index.m3u8
+#EXTINF:-1 tvg-id="int.bethel-tv.b6e6fb7" tvg-name="BETHEL TV" tvg-country="INT" group-title="International | Religious",BETHEL TV
+http://181.78.79.131:8000/play/a0pn
+#EXTINF:-1 tvg-id="int.enlace.4c8e37c" tvg-name="Enlace" tvg-country="INT" group-title="International | Religious",Enlace
+http://181.78.79.131:8000/play/a0pj
+#EXTINF:-1 tvg-id="int.ewtn.a7e3efd" tvg-name="EWTN" tvg-country="INT" group-title="International | Religious",EWTN
+http://181.78.79.131:8000/play/a0ph
+#EXTINF:-1 tvg-id="int.sin-limites.c46d6a9" tvg-name="Sin Limites" tvg-country="INT" group-title="International | Religious",Sin Limites
+http://181.78.79.131:8000/play/a0sr
+#EXTINF:-1 tvg-id="int.canal-del-congreso.6960cdd" tvg-name="Canal del Congreso" tvg-country="INT" group-title="International | Public Affairs",Canal del Congreso
+http://181.78.79.131:8000/play/a0se
+#EXTINF:-1 tvg-id="int.canalinstitucional-nacional-sin-trans.04e65c5" tvg-name="CANALINSTITUCIONAL NACIONAL SIN TRANS" tvg-country="INT" group-title="International | Public Affairs",CANALINSTITUCIONAL NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d0/index.m3u8
+#EXTINF:-1 tvg-id="int.13-c.9755652" tvg-name="13 C" tvg-country="INT" group-title="International | General",13 C
+http://181.78.79.131:8000/play/a0pm
+#EXTINF:-1 tvg-id="int.canal-12-valledupar.261da0e" tvg-name="CANAL 12 VALLEDUPAR" tvg-country="INT" group-title="International | General",CANAL 12 VALLEDUPAR
+http://181.78.8.199:8000/play/a0e4/index.m3u8
+#EXTINF:-1 tvg-id="int.canal-congre-nacional-sin-trans.b22f688" tvg-name="CANAL CONGRE NACIONAL SIN TRANS" tvg-country="INT" group-title="International | General",CANAL CONGRE NACIONAL SIN TRANS
+http://181.78.8.199:8000/play/a0d2/index.m3u8
+#EXTINF:-1 tvg-id="int.canal-tuves.05f4079" tvg-name="Canal TUVES" tvg-country="INT" group-title="International | General",Canal TUVES
+http://181.78.79.131:8000/play/a0q8
+#EXTINF:-1 tvg-id="int.canal-venevicion-local.24bc5f7" tvg-name="CANAL VENEVICION LOCAL" tvg-country="INT" group-title="International | General",CANAL VENEVICION LOCAL
+http://181.78.8.199:8000/play/a091/index.m3u8
+#EXTINF:-1 tvg-id="int.canales-nacionales.9d4b031" tvg-name="CANALES NACIONALES" tvg-country="INT" group-title="International | General",CANALES NACIONALES
+http://181.78.8.199:8000/play/a0cy/index.m3u8
+#EXTINF:-1 tvg-id="int.canalestrellas.f85b6e8" tvg-name="CANALESTRELLAS" tvg-country="INT" group-title="International | General",CANALESTRELLAS
+http://181.78.8.199:8000/play/a0cx/index.m3u8
+#EXTINF:-1 tvg-id="int.e-entertainment.eec38a9" tvg-name="E Entertainment" tvg-country="INT" group-title="International | General",E Entertainment
+http://190.60.52.28:5001/play/a0d5/index.m3u8
+#EXTINF:-1 tvg-id="int.el-gourmet-hd.82b4da9" tvg-name="El Gourmet HD" tvg-country="INT" group-title="International | General",El Gourmet HD
+http://181.78.79.131:8000/play/a0mv
+#EXTINF:-1 tvg-id="int.hei-hd.1b10f48" tvg-name="HEI HD" tvg-country="INT" group-title="International | General",HEI HD
+http://181.78.79.131:8000/play/a0mx
+#EXTINF:-1 tvg-id="int.hola-tv-hd.ba4a83a" tvg-name="HOLA TV HD" tvg-country="INT" group-title="International | General",HOLA TV HD
+http://181.78.79.131:8000/play/a0pw
+#EXTINF:-1 tvg-id="int.id.ba16388" tvg-name="ID" tvg-country="INT" group-title="International | General",ID
+http://181.78.79.131:8000/play/a0sl
+#EXTINF:-1 tvg-id="int.rec-tv.4030bb6" tvg-name="REC TV" tvg-country="INT" group-title="International | General",REC TV
+http://181.78.79.131:8000/play/a0qc
+#EXTINF:-1 tvg-id="int.adult-swim.5c40641" tvg-name="Adult Swim" tvg-country="INT" group-title="International | Adult",Adult Swim
+http://181.78.79.131:8000/play/a0pk
+#EXTINF:-1 tvg-id="int.playboy-hd.4f2683e" tvg-name="Playboy HD" tvg-country="INT" group-title="International | Adult",Playboy HD
+http://181.78.79.131:8000/play/a0mm
